@@ -1,4 +1,7 @@
-# test coverage for  [ember-cli-admin (v0.6.13)](http://ember-admin.com)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-admin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-admin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-admin.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-admin)
+# npmtest-ember-cli-admin
+
+#### basic test coverage for  [ember-cli-admin (v0.6.13)](http://ember-admin.com)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-admin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-admin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-admin.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-admin)
+
 #### Powerful admin dashboard for ember-cli projects, more in http://ember-admin.com
 
 [![NPM](https://nodei.co/npm/ember-cli-admin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-admin)
@@ -130,7 +133,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.6.13"
+    "version": "0.6.13",
+    "bin": {}
 }
 ```
 
